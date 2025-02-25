@@ -4,10 +4,10 @@ function applyDiscount() {
     
     // List of valid discount codes and their discounts
     const discountCodes = {
-        "GFX10": 0.90,  // 10% discount
-        "GFX!x15": 0.85,  // 15% discount
-        "GFXj925": 0.75,  // 25% discount
-        "GFXw720": 0.80   // 20% discount
+        "AH$10": 0.90,  // 10% discount
+        "AH3x15": 0.85,  // 15% discount
+        "AH@25": 0.75,  // 25% discount
+        "AH!20": 0.80   // 20% discount
     };
 
     // Check if entered code is valid
